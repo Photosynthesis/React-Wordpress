@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AACA,UACE,UAAW,CACX,cACF,CAEA,WACE,eACF","file":"main.c32c2809.chunk.css","sourcesContent":["\n.postDate {\n  color: #333;\n  font-size: 0.8em;\n}\n\n.postTitle {\n  margin-top: 0.8em;\n}\n"]}

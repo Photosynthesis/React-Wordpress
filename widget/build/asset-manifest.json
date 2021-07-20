@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wp-content/plugins/react-wordpress/widget/build/static/css/main.c32c2809.chunk.css",
+    "main.js": "/wp-content/plugins/react-wordpress/widget/build/static/js/main.1b982ccb.chunk.js",
+    "main.js.map": "/wp-content/plugins/react-wordpress/widget/build/static/js/main.1b982ccb.chunk.js.map",
+    "runtime-main.js": "/wp-content/plugins/react-wordpress/widget/build/static/js/runtime-main.6997e35a.js",
+    "runtime-main.js.map": "/wp-content/plugins/react-wordpress/widget/build/static/js/runtime-main.6997e35a.js.map",
+    "static/js/2.69f69b7e.chunk.js": "/wp-content/plugins/react-wordpress/widget/build/static/js/2.69f69b7e.chunk.js",
+    "static/js/2.69f69b7e.chunk.js.map": "/wp-content/plugins/react-wordpress/widget/build/static/js/2.69f69b7e.chunk.js.map",
+    "static/js/3.6768b184.chunk.js": "/wp-content/plugins/react-wordpress/widget/build/static/js/3.6768b184.chunk.js",
+    "static/js/3.6768b184.chunk.js.map": "/wp-content/plugins/react-wordpress/widget/build/static/js/3.6768b184.chunk.js.map",
+    "index.html": "/wp-content/plugins/react-wordpress/widget/build/index.html",
+    "static/css/main.c32c2809.chunk.css.map": "/wp-content/plugins/react-wordpress/widget/build/static/css/main.c32c2809.chunk.css.map",
+    "static/js/2.69f69b7e.chunk.js.LICENSE.txt": "/wp-content/plugins/react-wordpress/widget/build/static/js/2.69f69b7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6997e35a.js",
+    "static/js/2.69f69b7e.chunk.js",
+    "static/css/main.c32c2809.chunk.css",
+    "static/js/main.1b982ccb.chunk.js"
+  ]
+}
